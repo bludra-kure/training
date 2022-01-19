@@ -8,7 +8,7 @@ ${loginbutton}  id:lblLogin
 ${usernamefield}    id:userName
 ${username}     bludra.kure@gmail.com
 ${passwordfield}    id:password
-${password}     35000510
+${password}     %{pwd}
 ${loginsubmit}  id:btnLogin
 ${logout}   id:lblSignOut
 
